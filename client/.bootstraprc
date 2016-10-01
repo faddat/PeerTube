@@ -70,7 +70,7 @@ styles:
   # Core CSS
   scaffolding: true
   type: true
-  code: false
+  code: true
   grid: true
   tables: true
   forms: true
@@ -81,8 +81,8 @@ styles:
   dropdowns: true
   button-groups: true
   input-groups: true
-  navs: false
-  navbar: false
+  navs: true
+  navbar: true
   breadcrumbs: false
   pagination: true
   pager: false
@@ -93,7 +93,7 @@ styles:
   alerts: true
   progress-bars: true
   media: true
-  list-group: false
+  list-group: true
   panels: false
   wells: false
   responsive-embed: true
@@ -115,8 +115,8 @@ scripts:
   alert: false
   button: false
   carousel: false
-  collapse: false
-  dropdown: false
+  collapse: true
+  dropdown: true
   modal: false
   tooltip: false
   popover: false
