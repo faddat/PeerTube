@@ -3,6 +3,7 @@ listen:
 
 webserver:
   https: false
+  host: video.beyondbitcoin.io
   port: 9000
 
 database:
