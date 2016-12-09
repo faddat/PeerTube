@@ -1,10 +1,10 @@
 listen:
-  port: 9000
+  port: 80
 
 webserver:
   https: false
-  host: video.beyondbitcoin.io
-  port: 9000
+  hostname: 'video.beyondbitcoin.io'
+  port: 80
 
 database:
   hostname: 'localhost'
